@@ -6,4 +6,6 @@ tags: blog
 
 # Welcome
 
-These are profound thoughts.
+In here I will try to share my journey as I am learning stuff around the web.
+
+While you are here, feel free to leave your thoughts at [@ahmad_znz](https://www.twitter.com/ahmad_znz) through twitter.
